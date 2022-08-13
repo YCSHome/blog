@@ -61,6 +61,19 @@ code:
       style: "default"
       preprocess: true
 
+navbar:
+  blog_title: YCSHome
+  #  menu:
+  #    - {
+  #      key: '文档',
+  #      icon: 'iconfont icon-books',
+  #      submenu: [
+  #        { key: '主题博客', link: 'https://hexo.fluid-dev.com/' },
+  #        { key: '配置指南', link: 'https://hexo.fluid-dev.com/docs/guide/' },
+  #        { key: '图标用法', link: 'https://hexo.fluid-dev.com/docs/icon/' }
+  #      ]
+  #    }
+
 about:
   name: "YC"
   intro: "一个彩笔蒟蒻"
