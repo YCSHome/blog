@@ -1,4 +1,4 @@
-banner_img: https://w.wallhaven.cc/full/z8/wallhaven-z8wl1y.png
+# banner_img: https://w.wallhaven.cc/full/z8/wallhaven-z8wl1y.png
 
 lazyload:
   enable: true
@@ -55,8 +55,8 @@ code:
     line_number: true
     lib: "highlightjs"
     highlightjs:
-      style: 'Github Gist'
-      bg_color: false
+      style: 'Atom One Dark'
+      bg_color: true
     prismjs:
       style: "default"
       preprocess: true
