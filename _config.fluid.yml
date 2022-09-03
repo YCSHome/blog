@@ -79,3 +79,5 @@ about:
   intro: "一个彩笔蒟蒻"
   icons:
     - { class: 'iconfont icon-github-fill', link: 'https://github.com/YCSHome', tip: 'GitHub' }
+
+favicon: /img/icon.png
